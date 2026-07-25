@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "test": "node --check index.js"
-  }bigboyserver-SDVM.aternos.me,
+  }
   "author": "Lamgerr",
   "license": "MIT",
   "dependencies": {
